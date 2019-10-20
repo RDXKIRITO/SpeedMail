@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<eclipse-userlibraries>
+  <library name="javax.mail">
+    <archive path="F:/JavaCoachingNotes/DatabaseConnectivity/javax.mail.jar" />
+  </library>
+</eclipse-userlibraries>
+
